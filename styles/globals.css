@@ -36,3 +36,20 @@ button {
   padding: 0.5rem 1rem;
   font-weight: bold;
 }
+
+
+.heading{
+  font-size: 3rem;
+  font-weight: 400;
+  color: blue;
+}
+
+.links{
+  padding: 2rem;
+  margin: 2rem;
+  border: 2px solid blue;
+}
+
+.links:hover{
+  background-color: aqua;
+}
